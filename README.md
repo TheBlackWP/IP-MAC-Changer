@@ -53,7 +53,9 @@ Run the script as a superuser:
 
 Contributions are welcome. Feel free to open a pull request or report issues on the repository's "Issues" tab.
 
-License: MIT License
+
+License: 
+MIT License
 
 Author:
 TheBlackWP - Cybersecurity
