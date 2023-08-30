@@ -1,4 +1,4 @@
-Description:
+**Description:**
 
 This repository contains a Bash script for dynamically changing the MAC address and obtaining a new IP address on a Linux machine. The script provides a secure and efficient way to alter the network identity of the machine, which can be useful in various cybersecurity and networking scenarios.
 Features:
@@ -15,7 +15,7 @@ Features:
 
    
 
-Requirements:
+**Requirements:**
 
    ◉ Linux Operating System with a Bash shell
    
@@ -25,14 +25,14 @@ Requirements:
 
    
 
-Dependencies:
+**Dependencies:**
 
     sudo apt update
     sudo apt install macchanger
 
     
 
-Usage:
+**Usage:**
 
 Clone the repository:
 
@@ -52,7 +52,7 @@ Run the script as a superuser:
 
 
 
-Contributions:
+**Contributions:**
 
 Contributions are welcome. Feel free to open a pull request or report issues on the repository's "Issues" tab.
 License:
