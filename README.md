@@ -3,27 +3,24 @@
 This repository contains a Bash script for dynamically changing the MAC address and obtaining a new IP address on a Linux machine. The script provides a secure and efficient way to alter the network identity of the machine, which can be useful in various cybersecurity and networking scenarios.
 Features:
 
-   ◉ Superuser permission check
-  
-   ◉ Dynamic list of available network interfaces
-  
-   ◉ Random MAC address alteration
-  
-   ◉ IP address renewal via DHCP
-  
-   ◉ Color-coded output for easy interpretation
+<ul style="list-style-type:none;">
+  <li>Superuser permission check</li>
+  <li>Dynamic list of available network interfaces</li>
+  <li>Random MAC address alteration</li>
+  <li>IP address renewal via DHCP</li>
+  <li>Color-coded output for easy interpretation</li>
+</ul>
 
    
 
 **Requirements:**
 
-   ◉ Linux Operating System with a Bash shell
-   
-   ◉ Network utilities ip and dhclient
-   
-   ◉ macchanger for MAC address manipulation
+<ul style="list-style-type:none;">
+  <li>Linux Operating System with a Bash shell</li>
+  <li>Network utilities ip and dhclient</li>
+  <li>macchanger for MAC address manipulation</li>
+</ul>
 
-   
 
 **Dependencies:**
 
