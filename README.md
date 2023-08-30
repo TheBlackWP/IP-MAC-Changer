@@ -33,7 +33,7 @@ Features:
 
 Clone the repository:
 
-    git clone https://github.com/TheBlackWP/IP-MAC-Changer.git
+    git clone [https://github.com/TheBlackWP/IP-MAC-Changer.git](https://github.com/TheBlackWP/IP-MAC-Changer)
 
 Navigate into the directory:
 
